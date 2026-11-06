@@ -1,0 +1,17 @@
+Schedule Summary (v4),
+Metric,Value
+Total Class Days,65
+Total Instructional Hours (Days x 3),195
+Content Days,46
+Weekly Skill Checkpoints,8
+Project Sprint Days,7
+Demo Days,1
+Month 1 Milestone Days,1
+Final Presentation/Graduation Days,2
+Days added: Python Data Libraries & EDA (Week 3),5
+Days added: Classical ML + Deep Learning + Bridge to LLMs (Weeks 4-5),10
+Days condensed: old Functions/OOP/Exceptions/Files (Weeks 2-3 → Week 2),-5
+"Days condensed/relocated: Git, Environments & APIs (old Week 4 → Days 44-45)",-3
+Days cut: dedicated Prompt Engineering (old Days 27-28 → ~1 hour in Day 24),-1.5 (approx.)
+,
+Check: total days across Day-by-Day Schedule = 65,

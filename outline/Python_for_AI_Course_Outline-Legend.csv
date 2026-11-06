@@ -1,0 +1,14 @@
+Colour / Fill Legend,,
+Fill,Meaning,Where it appears
+Yellow (FFF2CC),Weekly Skill Checkpoint,"Day-by-Day sheet, 'Session Type' = Weekly Checkpoint"
+Green (D9EAD3),Milestone / Demo Day / Final Graduation,"Days 15, 43, 64, 65"
+Light blue (EAF1FB),Project Sprint,"Days 39-42, 61-63"
+,,
+Session Type values,,
+Value,Meaning,Count
+Content,"A normal teaching day: instruction, guided practice, independent lab",46
+Weekly Checkpoint,Tests that stretch's or week's named skill (not always on a Friday in the Month 2 ML/DL/LLM stretch - see Summary sheet),8
+Project Sprint,"Build, test or polish time on the learner's own project",7
+Demo Day,Monthly milestone presentations,1
+Month 1 Milestone,Month 1 portfolio deliverable: the EDA project,1
+Final/Graduation,Final presentations and certificate award,2

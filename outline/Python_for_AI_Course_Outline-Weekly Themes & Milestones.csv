@@ -1,0 +1,14 @@
+Month,Week,Weekly Theme,Month Milestone
+Month 1,1,Core Language Foundations,"By the end of this month: I can explore, clean and visualize a real dataset with NumPy, Pandas, Matplotlib and Seaborn, and write robust, object-oriented Python independently."
+Month 1,2,"Functions, OOP & Robust Code",
+Month 1,3,Python Data Libraries & Exploratory Data Analysis,
+Month 2,4,Classical Machine Learning & Neural Networks,"By the end of this month: I can build and evaluate a classical ML model, train and explain a small neural network, and build a working AI application using an LLM, RAG and agents."
+Month 2,5,"Deep Learning, the Bridge to LLMs & Practical NLP",
+Month 2,6,"LLM Applications, Transformers & the Start of RAG",
+Month 2,7,RAG & the Start of Agents,
+Month 2,8,"Agents, MCP & Month 2 Sprint Begins",
+Month 2,9,"Month 2 Sprint, Demo Day & Git/API Foundations",
+Month 3,10,"Servers, APIs & Deployment","By the end of this month: I can ship, evaluate and secure a production-ready AI application and present it professionally."
+Month 3,11,"Advanced Agents: Evaluation, Orchestration & Voice",
+Month 3,12,"Portfolio, Freelance & Interview Readiness",
+Month 3,13,"Final Sprint, Buffer & Graduation",
