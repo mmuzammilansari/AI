@@ -36,7 +36,7 @@ def build_graph(model=None, tools=None):
     
 if __name__ == "__main__":
     import sys
-    graph = build_graph(sys.argv[1] if len(sys.argv) > 1 else "groq")
+    graph = build_graph(sys.argv[1] if len(sys.argv) > 1 else "ollama")
     out = graph.invoke({"messages": [("user", "What is on the menu?")]})
     print(out["messages"][-1].content)
     
