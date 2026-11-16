@@ -1,14 +1,14 @@
 import os
+
 from openai import OpenAI
 from dotenv import load_dotenv
 
-# load environments
+# Load environments
 load_dotenv()
 
-
-# Models Defineds
-MODEL = "nvidia/nemotron-3.5-lightning:free"
-EMB_MODEL = "nvidia/nemotron-3-embed-1b:free"
+# Models Defined
+MODEL = "openai/gpt-oss-120b"
+EMBEDDING_MODEL = "nvidia/nemotron-3.5-embed-8b:free"
 
 
 openrouter_client = OpenAI(

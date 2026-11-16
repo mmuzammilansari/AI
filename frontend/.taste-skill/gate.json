@@ -1,0 +1,46 @@
+{
+ "start": "2026-11-13T15:06:35.966Z",
+ "round": 0,
+ "idle": 0,
+ "errors": 1,
+ "status": "error",
+ "history": [
+  {
+   "at": "2026-11-13T15:06:40.049Z",
+   "mode": "manual",
+   "status": "error",
+   "fails": 0,
+   "round": 0,
+   "reused": false,
+   "stopHookActive": false
+  }
+ ],
+ "max": 3,
+ "marker": {
+  "page": null,
+  "url": "http://127.0.0.1:3000/",
+  "root": null,
+  "kind": "software",
+  "category": "LangGraph AI chat app",
+  "primary": "Send a message",
+  "rounds": 3,
+  "start": "2026-11-13T15:06:35.966Z",
+  "by": "gate.mjs --start"
+ },
+ "manual": true,
+ "fp": "051200c23d1db5da",
+ "page": "http://127.0.0.1:3000/",
+ "found": {
+  "fails": [],
+  "warns": [],
+  "crashed": [
+   "the gate itself failed: spawn EPERM"
+  ],
+  "seconds": {}
+ },
+ "open": [],
+ "waived": [],
+ "warnCount": 0,
+ "note": "the gate itself failed: spawn EPERM",
+ "at": "2026-11-13T15:06:40.051Z"
+}
