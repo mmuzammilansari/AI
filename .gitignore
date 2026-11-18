@@ -12,4 +12,9 @@ __pycache__
 *.env
 class
 company_db
+<<<<<<< HEAD
 chroma*
+=======
+chroma*
+.agents
+>>>>>>> c275fc1d3868eaf16077c28554e97a95b65fd1a0
